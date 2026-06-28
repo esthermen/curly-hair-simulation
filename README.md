@@ -210,6 +210,6 @@ This project was developed as part of a personal research portfolio focused on:
 
 ## Author
 
-**Your Name**
+Esther Menéndez
 
 Physics graduate interested in computational modelling, simulation and physically-based animation.
