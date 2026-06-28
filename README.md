@@ -9,11 +9,11 @@ The objective of this work is to explore physically-based animation techniques a
 ---
 
 ## Preview
+<h2>Simulation Demo</h2>
 
 <p align="center">
-  <img src="results/ponytail.gif" width="600">
+  <img src="media/ponytail.gif" width="600">
 </p>
-
 ---
 
 ## Features
